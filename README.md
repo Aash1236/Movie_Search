@@ -54,7 +54,7 @@ This project uses the following dependencies:
    npm install -D tailwindcss postcss autoprefixer
    npx tailwindcss init -p
    ```
-3. Create a `.env` file in the root directory and add your TMDb API key:
+3. Created a `.env` file in the root directory and added TMDb API key:
 
    ```env
    VITE_ACCESS_TOKEN= <Api key>
